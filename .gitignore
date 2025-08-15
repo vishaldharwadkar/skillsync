@@ -1,0 +1,22 @@
+# Node / React
+node_modules/
+build/
+dist/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# .NET / C#
+bin/
+obj/
+
+# OS Files
+.DS_Store
+Thumbs.db
